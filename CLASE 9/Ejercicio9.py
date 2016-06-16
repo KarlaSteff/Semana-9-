@@ -1,6 +1,5 @@
 import turtle
 
-
 def funcion(numero, diametro):
 	t=turtle.Pen()
 	angulo=360/numero
